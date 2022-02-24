@@ -10,8 +10,3 @@ Activities realized by Juan David Rengifo Castro in the courses of **stochastic 
 
 ## Workshops
 - [Workshop 1](https://jdrengifoc.github.io/Stochastic-Process/PE-Taller%20seguimiento%201.html)
-
-Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
