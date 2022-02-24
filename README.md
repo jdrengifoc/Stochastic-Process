@@ -1,5 +1,5 @@
 # Stochastic-Process
-Activities realized by Juan David Rengifo Castro in the courses of stochastic process 1 and stochastic process 2 at universidad EAFIT.
+Activities realized by Juan David Rengifo Castro in the courses of **stochastic process 1** and **stochastic process 2** at universidad EAFIT.
 
 ## Stochastic Process 1
 
