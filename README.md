@@ -5,5 +5,7 @@ Activities realized by Juan David Rengifo Castro in the courses of **stochastic 
 
 ### Content
 1. Discrete-time Markov chain 
-2. Continous-time Markov chain and renewal processes
-3. Queueing theory
+   [https://jdrengifoc.github.io/Stochastic-Process/PE-Taller%20seguimiento%201.html](**Workshop 1**)
+3. Continous-time Markov chain and renewal processes
+4. Queueing theory
+)
