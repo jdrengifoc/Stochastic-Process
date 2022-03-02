@@ -9,4 +9,4 @@ Activities realized by Juan David Rengifo Castro in the courses of **stochastic 
 3. Queueing theory
 
 ## Workshops
-- [Workshop 1](https://jdrengifoc.github.io/Stochastic-Process/PE-Taller%20seguimiento%201.html)
+- [Workshop 1](https://jdrengifoc.github.io/Stochastic-Process/PE1-Taller1.html)
