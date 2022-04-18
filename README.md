@@ -10,3 +10,4 @@ Activities realized by Juan David Rengifo Castro in the courses of **stochastic 
 
 ## Workshops
 - [Workshop 1](https://jdrengifoc.github.io/Stochastic-Process/PE1-Taller1.html)
+- [Workshop 2](https://jdrengifoc.github.io/Stochastic-Process/PE1-Taller2.html)
